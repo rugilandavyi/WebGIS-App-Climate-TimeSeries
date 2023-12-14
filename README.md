@@ -1,5 +1,7 @@
 # WebGIS-App-Climate-TimeSeries
 This is a WebGIS App that shows the different changes of various climate and or LULC changes over a span of decades for the Rufiji Basin region.
+# The website link
+https://rugilandavyi.github.io/WebGIS-App-Climate-TimeSeries/
 
 # Data Sources
 CHIRPS https://chc.ucsb.edu/data/chirps
